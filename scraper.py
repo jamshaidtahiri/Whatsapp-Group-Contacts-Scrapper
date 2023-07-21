@@ -79,18 +79,18 @@ def extract_title_attribute():
         first_chat = driver.find_elements(By.CSS_SELECTOR, 'span[title]')
 
         # Target string to search for at the beginning of the title
-        target_starting_string = search_query
-
+        target_starting_string = search_query.lower()
+        print(target_starting_string)
 # Variable to store the element with the target title
         target_element = None
 
 # Iterate through each 'span' element and check the title
         for chat_element in first_chat:
             title = chat_element.get_attribute("title")
-            print(title)
+            print(title.lower())
 
     # Check if the title starts with the target starting string
-            if title.startswith(target_starting_string):
+            if title.startswith(target_starting_string) or title.lower()==target_starting_string.lower():
                 target_element = chat_element
                 break  # Stop the loop once the target element is found
 
