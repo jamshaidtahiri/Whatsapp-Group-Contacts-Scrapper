@@ -18,14 +18,16 @@ Chrome WebDriver
 
 Execution
 ---------
-1. Run "scraper.exe" https://mega.nz/file/J2R03LJL#lSKLnH8dL-IRFWGtVzMpvWh89EEakGpMJSCmATv2RQs  or  https://mega.nz/folder/ZuY2mALT#i9iRLxuJNGkFw419xogSNAto execute the script.
-2. A file dialog will appear, asking you to select the Chrome WebDriver executable. Browse and select the downloaded WebDriver.
-3. A dialog box will ask you to enter the name of the WhatsApp group from which you want to extract contacts.
-4. After entering the group name, the script will launch a Chrome browser and open WhatsApp Web.
-5. Scan the QR code and wait for the WhatsApp Web session to load.
-6. Once the session is loaded, the script will search for the specified group and extract its contacts.
-7. The script will create a CSV file named "Group_Contact_list.csv" containing the extracted contacts.
-8. The CSV file will be saved in the same directory where the script is located.
+1. Run "scraper.exe" https://mega.nz/file/J2R03LJL#lSKLnH8dL-IRFWGtVzMpvWh89EEakGpMJSCmATv2RQs
+                                       or
+3. https://mega.nz/folder/ZuY2mALT#i9iRLxuJNGkFw419xogSNAto execute the script.
+4. A file dialog will appear, asking you to select the Chrome WebDriver executable. Browse and select the downloaded WebDriver.
+5. A dialog box will ask you to enter the name of the WhatsApp group from which you want to extract contacts.
+6. After entering the group name, the script will launch a Chrome browser and open WhatsApp Web.
+7. Scan the QR code and wait for the WhatsApp Web session to load.
+8. Once the session is loaded, the script will search for the specified group and extract its contacts.
+9. The script will create a CSV file named "Group_Contact_list.csv" containing the extracted contacts.
+10. The CSV file will be saved in the same directory where the script is located.
 
 Note
 ----
