@@ -66,9 +66,9 @@ def extract_title_attribute():
             search_query = simpledialog.askstring("WhatsApp Search", "Enter your search query:")
     # Ask the user for the search query using a dialog box 
             return search_query
-
+        search_query = get_search_query()
         # Input text into the search input
-        search_input_element.send_keys(get_search_query())
+        search_input_element.send_keys(search_query)
 
         time.sleep(2)
         
@@ -79,7 +79,7 @@ def extract_title_attribute():
         first_chat = driver.find_elements(By.CSS_SELECTOR, 'span[title]')
 
         # Target string to search for at the beginning of the title
-        target_starting_string = "Gunroom-3"
+        target_starting_string = search_query
 
 # Variable to store the element with the target title
         target_element = None
