@@ -55,9 +55,9 @@ This powerful Python script allows you to extract specific contacts from WhatsAp
 ⭐ Found a bug or have an idea for improvement? We welcome your contributions!
 ⭐ Fork the repository and submit a pull request with your changes.
 
-## GitHub Repository
+## Social Media
 
-[Link to GitHub Repository](https://github.com/jamshaidtahiri/Whatsapp-Group-Contacts-Scrapper)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jamshaidtahiri/) for more updates and projects!
 
 Start streamlining your WhatsApp Web experience now! Download the WhatsApp Web Scraper and discover its efficiency! 🚀
 
