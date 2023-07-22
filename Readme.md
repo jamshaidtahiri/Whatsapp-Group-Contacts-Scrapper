@@ -1,6 +1,6 @@
 # WhatsApp Web Scraper - Find and Export Specific Contacts! 📱
 
-![WhatsApp Web Scraper](https://github.com/jamshaidtahiri/Whatsapp-Group-Contacts-Scrapper/blob/main/images/Whatsapp Web Scraper.jpg)
+![WhatsApp Web Scraper](https://github.com/jamshaidtahiri/Whatsapp-Group-Contacts-Scrapper/blob/main/images/WhatsApp%20Web%20Scraper%20.jpg)
 
 
 ## Overview
