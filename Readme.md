@@ -1,6 +1,7 @@
 # WhatsApp Web Scraper - Find and Export Specific Contacts! 📱
 
-![WhatsApp Web Scraper](https://github.com/jamshaidtahiri/Whatsapp-Group-Contacts-Scrapper/blob/main/screenshot_help.jpg)
+![WhatsApp Web Scraper](https://github.com/jamshaidtahiri/Whatsapp-Group-Contacts-Scrapper/blob/main/images/Whatsapp Web Scraper.jpg)
+
 
 ## Overview
 
@@ -14,7 +15,7 @@ This powerful Python script allows you to extract specific contacts from WhatsAp
 ## Chrome WebDriver
 
 1. Download the Chrome WebDriver compatible with your Chrome browser version from [here](https://googlechromelabs.github.io/chrome-for-testing/).
-![Chrome WebDriver](https://github.com/jamshaidtahiri/Whatsapp-Group-Contacts-Scrapper/blob/main/screenshot_help.jpg)
+![Chrome WebDriver](https://github.com/jamshaidtahiri/Whatsapp-Group-Contacts-Scrapper/blob/main/images/screenshot_help.jpg)
 3. During the execution of the scraper, you will be prompted to select the downloaded Chrome WebDriver executable.
 
 ## Execution
